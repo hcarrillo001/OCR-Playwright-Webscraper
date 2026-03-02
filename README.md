@@ -1,5 +1,7 @@
 # OCR-Playwright-Webscraper
 
+DEMO: https://youtu.be/FHcG8D0dfro
+
 
 🚀 Overview
 
@@ -42,7 +44,7 @@ Users are solely responsible for ensuring compliance with applicable laws and we
 
 🎥 Live Demo
 
-To see the project in action, please visit the YouTube demo link (add your link here).
+To see the project in action, please visit the YouTube demo link (at the very top of this page).
 
 The video demonstrates:
 
@@ -53,10 +55,6 @@ OCR recognizing on-screen betting odds
 Structured JSON output generation
 
 Interaction with dynamic and protected web pages
-
-
-https://youtu.be/FHcG8D0dfro
-
 
 
 
