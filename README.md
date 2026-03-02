@@ -75,6 +75,9 @@ The structured JSON output generated from visual recognition
 <img width="2540" height="1132" alt="image" src="https://github.com/user-attachments/assets/0387810e-9b3b-4bab-a558-5b65b0f37c2e" />
 
 
+<img width="2382" height="710" alt="image" src="https://github.com/user-attachments/assets/519bf088-6756-45a6-9413-278710c047e7" />
+
+
 
 📸 Screenshots of the extracted results are included below in this README.
 
