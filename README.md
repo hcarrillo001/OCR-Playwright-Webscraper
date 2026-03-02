@@ -7,7 +7,7 @@
 
 
 
-🧠 What Makes This Unique
+# 🧠 What Makes This Unique
 
 This project pushes browser automation beyond conventional web scraping techniques:
 
@@ -26,7 +26,7 @@ Reads and interprets rendered content dynamically using OCR.
 🧭 Human-like Browser Interaction
 Operates more like a real user rather than a static scraper.
 
-🔐 Handles Difficult Websites
+# 🔐 Handles Difficult Websites
 Capable of interacting with:
 
 reCAPTCHA challenges
@@ -38,7 +38,7 @@ Dynamically rendered content
 Anti-bot protections designed to block scrapers
 
 
-🚀 Overview
+# 🚀 Overview
 
 OCR Playwright Webscraper is an AI-assisted browser automation project built in Python.
 
@@ -53,7 +53,7 @@ Playwright MCP-based automation
 Unlike traditional Playwright scripts, this project does not require writing browser automation code. Instead, you provide simple instructions in plain English, and the browser executes them accordingly.
 
 
-⚠️ Educational Disclaimer
+# ⚠️ Educational Disclaimer
 
 This repository is strictly for educational and research purposes only.
 
@@ -77,7 +77,7 @@ Circumvent security safeguards irresponsibly
 
 Users are solely responsible for ensuring compliance with applicable laws and website policies.
 
-🎥 Live Demo
+# 🎥 Live Demo
 
 To see the project in action, please visit the YouTube demo link (at the very top of this page).
 
@@ -93,7 +93,7 @@ Interaction with dynamic and protected web pages
 
 
 
-📸 Example Results
+# 📸 Example Results
 
 Below are example screenshots showing:
 
@@ -114,9 +114,7 @@ The structured JSON output generated from visual recognition
 
 
 
-📸 Screenshots of the extracted results are included below in this README.
-
-👁️ OCR-Powered Data Extraction
+# 👁️ OCR-Powered Data Extraction
 
 One of the most powerful aspects of this project is how OCR dynamically reads on-screen content and structures it into usable data.
 
@@ -134,7 +132,7 @@ This demonstrates a shift from traditional DOM-based scraping to vision-based AI
 
 
 
-🔍 Why This Project Matters
+# Why This Project Matters
 
 AI is rapidly transforming automation.
 
@@ -150,7 +148,7 @@ Why stronger countermeasures may be necessary in the future
 
 The distinction between human browsing and automated browsing is becoming increasingly blurred — this repository explores that shift.
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Python 3.10+
 
