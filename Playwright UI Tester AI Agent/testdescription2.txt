@@ -1,0 +1,6 @@
+Description
+1. Navigate to draftkings.com
+2. Navigate to the nba section live odds and live in game.
+3. Take a screenshot and name it oddsimage.png
+4. Close Browser.
+
