@@ -3,6 +3,31 @@
 DEMO: https://youtu.be/FHcG8D0dfro
 
 
+🧠 What Makes This Unique
+
+This project pushes browser automation beyond conventional web scraping techniques:
+
+🗣️ Natural Language Instructions
+No Playwright scripting required — just describe what you want done.
+
+👁️ Vision-Based Extraction
+Reads and interprets rendered content dynamically using OCR.
+
+🧭 Human-like Browser Interaction
+Operates more like a real user rather than a static scraper.
+
+🔐 Handles Difficult Websites
+Capable of interacting with:
+
+reCAPTCHA challenges
+
+JavaScript-heavy applications
+
+Dynamically rendered content
+
+Anti-bot protections designed to block scrapers
+
+
 🚀 Overview
 
 OCR Playwright Webscraper is an AI-assisted browser automation project built in Python.
@@ -98,29 +123,6 @@ Automatically format the results into structured JSON
 This demonstrates a shift from traditional DOM-based scraping to vision-based AI extraction, where automation interacts with the page the way a human visually would.
 
 
-🧠 What Makes This Unique
-
-This project pushes browser automation beyond conventional web scraping techniques:
-
-🗣️ Natural Language Instructions
-No Playwright scripting required — just describe what you want done.
-
-👁️ Vision-Based Extraction
-Reads and interprets rendered content dynamically using OCR.
-
-🧭 Human-like Browser Interaction
-Operates more like a real user rather than a static scraper.
-
-🔐 Handles Difficult Websites
-Capable of interacting with:
-
-reCAPTCHA challenges
-
-JavaScript-heavy applications
-
-Dynamically rendered content
-
-Anti-bot protections designed to block scrapers
 
 🔍 Why This Project Matters
 
