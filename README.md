@@ -1,6 +1,11 @@
 # OCR-Playwright-Webscraper
 
+
+
+
 DEMO: https://youtu.be/FHcG8D0dfro
+
+
 
 
 🧠 What Makes This Unique
