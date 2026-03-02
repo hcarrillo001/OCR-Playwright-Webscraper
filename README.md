@@ -23,17 +23,12 @@ Simple instruction is english. No playwright code
 👁️ Vision-Based Extraction
 Reads and interprets rendered content dynamically using OCR.
 
-🧭 Human-like Browser Interaction
-Operates more like a real user rather than a static scraper.
-
 # 🔐 Handles Difficult Websites
-Capable of interacting with:
+Capable of bypassing:
 
-reCAPTCHA challenges
+reCAPTCHA (v3)
 
 JavaScript-heavy applications
-
-Dynamically rendered content
 
 Anti-bot protections designed to block scrapers
 
