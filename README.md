@@ -10,6 +10,12 @@ This project pushes browser automation beyond conventional web scraping techniqu
 🗣️ Natural Language Instructions
 No Playwright scripting required — just describe what you want done.
 
+Simple instruction is english. No playwright code
+
+<img width="1516" height="466" alt="image" src="https://github.com/user-attachments/assets/19ad8760-cff8-4196-9903-118b2bb45ef9" />
+
+
+
 👁️ Vision-Based Extraction
 Reads and interprets rendered content dynamically using OCR.
 
