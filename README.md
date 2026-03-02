@@ -7,7 +7,6 @@ DEMO: https://youtu.be/FHcG8D0dfro
 
 
 
-
 🧠 What Makes This Unique
 
 This project pushes browser automation beyond conventional web scraping techniques:
